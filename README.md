@@ -49,9 +49,11 @@ If you need to [update the Salesforce CLI](https://developer.salesforce.com/docs
     ```
 
 
-2. If your org isn't already open, open it now:
+2. If your org isn't already open, open it in the browser now:
 
     ```bash
     sf org open
     ```
+3. Click App Launcher in your org and open **Sample Data Import**. Click **Import Sample Data** button.
+
 
